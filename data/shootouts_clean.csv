@@ -1,0 +1,128 @@
+date,home_team,away_team,winner,first_shooter,match_id
+1984-05-27,England,Sweden,Sweden,nan,1984-05-27_England_Sweden
+1988-06-12,China PR,Brazil,Brazil,Brazil,1988-06-12_China_PR_Brazil
+1995-06-13,Sweden,China PR,China PR,China PR,1995-06-13_Sweden_China_PR
+1996-05-18,Japan,Canada,Japan,nan,1996-05-18_Japan_Canada
+1998-07-25,China PR,Norway,China PR,nan,1998-07-25_China_PR_Norway
+1998-07-27,Denmark,Norway,Norway,nan,1998-07-27_Denmark_Norway
+1998-12-15,North Korea,Taiwan,North Korea,nan,1998-12-15_North_Korea_Taiwan
+1999-01-09,Australia,Italy,Italy,nan,1999-01-09_Australia_Italy
+1999-07-10,Brazil,Norway,Brazil,Norway,1999-07-10_Brazil_Norway
+1999-07-10,United States,China PR,United States,China PR,1999-07-10_United_States_China_PR
+1999-08-02,Canada,Mexico,Mexico,nan,1999-08-02_Canada_Mexico
+1999-08-04,Canada,Costa Rica,Costa Rica,nan,1999-08-04_Canada_Costa_Rica
+2001-09-12,Vietnam,Myanmar,Vietnam,nan,2001-09-12_Vietnam_Myanmar
+2001-11-29,Guatemala,Honduras,Honduras,nan,2001-11-29_Guatemala_Honduras
+2006-12-13,Japan,North Korea,North Korea,nan,2006-12-13_Japan_North_Korea
+2007-07-05,Bermuda,Isle of Man,Bermuda,nan,2007-07-05_Bermuda_Isle_of_Man
+2007-09-15,Myanmar,Thailand,Myanmar,nan,2007-09-15_Myanmar_Thailand
+2008-04-12,Canada,United States,United States,nan,2008-04-12_Canada_United_States
+2009-03-12,France,New Zealand,France,nan,2009-03-12_France_New_Zealand
+2009-12-16,Thailand,Vietnam,Vietnam,nan,2009-12-16_Thailand_Vietnam
+2011-06-15,Colombia,Denmark,Colombia,nan,2011-06-15_Colombia_Denmark
+2011-07-06,Zimbabwe,Tanzania,Zimbabwe,nan,2011-07-06_Zimbabwe_Tanzania
+2011-07-09,England,France,France,France,2011-07-09_England_France
+2011-07-10,Brazil,United States,United States,United States,2011-07-10_Brazil_United_States
+2011-07-17,Japan,United States,Japan,United States,2011-07-17_Japan_United_States
+2011-10-12,United Arab Emirates,Iran,United Arab Emirates,nan,2011-10-12_United_Arab_Emirates_Iran
+2011-10-27,Brazil,Canada,Canada,nan,2011-10-27_Brazil_Canada
+2012-03-06,New Zealand,Netherlands,Netherlands,nan,2012-03-06_New_Zealand_Netherlands
+2012-03-06,South Korea,Finland,South Korea,nan,2012-03-06_South_Korea_Finland
+2012-09-22,Vietnam,Myanmar,Vietnam,Myanmar,2012-09-22_Vietnam_Myanmar
+2013-03-11,Slovenia,Bosnia and Herzegovina,Slovenia,nan,2013-03-11_Slovenia_Bosnia_and_Herzegovina
+2013-03-11,Russia,Czech Republic,Russia,nan,2013-03-11_Russia_Czech_Republic
+2013-03-13,South Africa,Northern Ireland,South Africa,nan,2013-03-13_South_Africa_Northern_Ireland
+2013-07-18,Bermuda,Greenland,Bermuda,nan,2013-07-18_Bermuda_Greenland
+2013-12-18,Myanmar,Thailand,Thailand,nan,2013-12-18_Myanmar_Thailand
+2014-03-12,Scotland,South Korea,South Korea,nan,2014-03-12_Scotland_South_Korea
+2015-03-11,Northern Ireland,Bosnia and Herzegovina,Bosnia and Herzegovina,nan,2015-03-11_Northern_Ireland_Bosnia_and_Herzegovina
+2015-03-11,Croatia,Wales,Wales,nan,2015-03-11_Croatia_Wales
+2015-03-11,South Korea,Belgium,South Korea,nan,2015-03-11_South_Korea_Belgium
+2015-06-26,Germany,France,Germany,Germany,2015-06-26_Germany_France
+2015-07-31,Maldives,Mayotte,Mayotte,nan,2015-07-31_Maldives_Mayotte
+2015-08-02,Réunion,Madagascar,Madagascar,nan,2015-08-02_Réunion_Madagascar
+2016-08-02,Myanmar,Vietnam,Vietnam,nan,2016-08-02_Myanmar_Vietnam
+2016-08-04,Vietnam,Thailand,Thailand,nan,2016-08-04_Vietnam_Thailand
+2017-03-08,Belgium,Austria,Belgium,nan,2017-03-08_Belgium_Austria
+2017-03-08,Scotland,Wales,Scotland,nan,2017-03-08_Scotland_Wales
+2017-03-15,Latvia,Estonia,Latvia,nan,2017-03-15_Latvia_Estonia
+2017-03-15,Lithuania,Malta,Lithuania,nan,2017-03-15_Lithuania_Malta
+2017-06-29,Åland,Menorca,Åland,nan,2017-06-29_Åland_Menorca
+2017-09-21,Zambia,South Africa,South Africa,nan,2017-09-21_Zambia_South_Africa
+2017-09-23,Zambia,Kenya,Zambia,nan,2017-09-23_Zambia_Kenya
+2017-12-12,Nicaragua,Panama,Nicaragua,nan,2017-12-12_Nicaragua_Panama
+2017-12-14,El Salvador,Panama,Panama,nan,2017-12-14_El_Salvador_Panama
+2017-12-14,Nicaragua,Costa Rica,Costa Rica,nan,2017-12-14_Nicaragua_Costa_Rica
+2018-02-22,Nigeria,Ghana,Ghana,nan,2018-02-22_Nigeria_Ghana
+2018-03-06,Poland,Ukraine,Ukraine,nan,2018-03-06_Poland_Ukraine
+2018-03-07,Wales,Austria,Austria,nan,2018-03-07_Wales_Austria
+2018-08-24,Taiwan,Vietnam,Taiwan,nan,2018-08-24_Taiwan_Vietnam
+2019-01-21,Catalonia,Chile,Catalonia,nan,2019-01-21_Catalonia_Chile
+2019-03-04,Croatia,Montenegro,Montenegro,nan,2019-03-04_Croatia_Montenegro
+2019-03-05,India,Kazakhstan,Kazakhstan,nan,2019-03-05_India_Kazakhstan
+2019-03-06,Austria,Belgium,Belgium,nan,2019-03-06_Austria_Belgium
+2019-03-06,North Korea,Italy,North Korea,nan,2019-03-06_North_Korea_Italy
+2019-04-09,Congo,Gabon,Gabon,nan,2019-04-09_Congo_Gabon
+2019-05-16,Ghana,Nigeria,Nigeria,nan,2019-05-16_Ghana_Nigeria
+2019-05-18,Ghana,Mali,Ghana,nan,2019-05-18_Ghana_Mali
+2019-05-18,Ivory Coast,Nigeria,Nigeria,nan,2019-05-18_Ivory_Coast_Nigeria
+2019-06-22,Norway,Australia,Norway,Norway,2019-06-22_Norway_Australia
+2019-08-09,Argentina,Colombia,Colombia,nan,2019-08-09_Argentina_Colombia
+2019-09-01,Brazil,Chile,Chile,nan,2019-09-01_Brazil_Chile
+2019-09-03,South Africa,Botswana,Botswana,nan,2019-09-03_South_Africa_Botswana
+2019-11-10,China PR,Brazil,China PR,nan,2019-11-10_China_PR_Brazil
+2020-02-28,Equatorial Guinea,DR Congo,Equatorial Guinea,nan,2020-02-28_Equatorial_Guinea_DR_Congo
+2021-04-13,Switzerland,Czech Republic,Switzerland,nan,2021-04-13_Switzerland_Czech_Republic
+2021-06-10,Estonia,Faroe Islands,Faroe Islands,nan,2021-06-10_Estonia_Faroe_Islands
+2021-07-30,Canada,Brazil,Canada,nan,2021-07-30_Canada_Brazil
+2021-07-30,Netherlands,United States,United States,nan,2021-07-30_Netherlands_United_States
+2021-08-06,Sweden,Canada,Canada,Sweden,2021-08-06_Sweden_Canada
+2021-09-25,Jordan,Iran,Iran,nan,2021-09-25_Jordan_Iran
+2021-10-07,Tanzania,Zambia,Tanzania,nan,2021-10-07_Tanzania_Zambia
+2021-10-09,South Africa,Zambia,Zambia,nan,2021-10-09_South_Africa_Zambia
+2021-10-26,Ethiopia,Uganda,Uganda,nan,2021-10-26_Ethiopia_Uganda
+2022-01-30,Taiwan,Philippines,Philippines,nan,2022-01-30_Taiwan_Philippines
+2022-02-03,China PR,Japan,China PR,nan,2022-02-03_China_PR_Japan
+2022-02-16,Hungary,Russia,Russia,Russia,2022-02-16_Hungary_Russia
+2022-02-19,Wales,Belgium,Belgium,Belgium,2022-02-19_Wales_Belgium
+2022-02-22,Scotland,Hungary,Scotland,Hungary,2022-02-22_Scotland_Hungary
+2022-02-22,Belgium,Russia,Belgium,Belgium,2022-02-22_Belgium_Russia
+2022-02-22,Mali,Senegal,Senegal,nan,2022-02-22_Mali_Senegal
+2022-02-23,Sweden,Italy,Sweden,Sweden,2022-02-23_Sweden_Italy
+2022-07-13,Zambia,Senegal,Zambia,nan,2022-07-13_Zambia_Senegal
+2022-07-17,Senegal,Tunisia,Senegal,nan,2022-07-17_Senegal_Tunisia
+2022-07-18,Morocco,Nigeria,Morocco,nan,2022-07-18_Morocco_Nigeria
+2022-07-23,Papua New Guinea,Tonga,Papua New Guinea,nan,2022-07-23_Papua_New_Guinea_Tonga
+2022-07-24,Chile,Venezuela,Chile,nan,2022-07-24_Chile_Venezuela
+2022-07-30,Samoa,Solomon Islands,Solomon Islands,nan,2022-07-30_Samoa_Solomon_Islands
+2023-02-19,Taiwan,Paraguay,Paraguay,nan,2023-02-19_Taiwan_Paraguay
+2023-04-06,England,Brazil,England,England,2023-04-06_England_Brazil
+2023-08-06,Sweden,United States,Sweden,United States,2023-08-06_Sweden_United_States
+2023-08-07,England,Nigeria,England,England,2023-08-07_England_Nigeria
+2023-08-12,Australia,France,Australia,France,2023-08-12_Australia_France
+2023-09-27,Lebanon,Malaysia,Lebanon,nan,2023-09-27_Lebanon_Malaysia
+2023-09-28,Pakistan,Laos,Pakistan,nan,2023-09-28_Pakistan_Laos
+2023-12-06,Hong Kong,Guam,Hong Kong,nan,2023-12-06_Hong_Kong_Guam
+2024-02-27,Scotland,Finland,Finland,nan,2024-02-27_Scotland_Finland
+2024-02-29,Jordan,Nepal,Jordan,Jordan,2024-02-29_Jordan_Nepal
+2024-04-06,Brazil,Canada,Canada,Canada,2024-04-06_Brazil_Canada
+2024-04-09,Japan,Brazil,Brazil,Japan,2024-04-09_Japan_Brazil
+2024-04-09,United States,Canada,United States,Canada,2024-04-09_United_States_Canada
+2024-08-03,Spain,Colombia,Spain,Colombia,2024-08-03_Spain_Colombia
+2024-08-03,Canada,Germany,Germany,Germany,2024-08-03_Canada_Germany
+2024-10-24,Estonia,Lithuania,Estonia,Estonia,2024-10-24_Estonia_Lithuania
+2024-10-27,Nepal,India,Nepal,India,2024-10-27_Nepal_India
+2024-10-31,South Africa,Mozambique,South Africa,nan,2024-10-31_South_Africa_Mozambique
+2024-11-02,South Africa,Zambia,Zambia,nan,2024-11-02_South_Africa_Zambia
+2025-02-26,Zimbabwe,Angola,Angola,nan,2025-02-26_Zimbabwe_Angola
+2025-02-26,Ethiopia,Uganda,Ethiopia,nan,2025-02-26_Ethiopia_Uganda
+2025-07-17,Sweden,England,England,England,2025-07-17_Sweden_England
+2025-07-19,Algeria,Ghana,Ghana,Algeria,2025-07-19_Algeria_Ghana
+2025-07-19,South Africa,Senegal,South Africa,South Africa,2025-07-19_South_Africa_Senegal
+2025-07-19,France,Germany,Germany,Germany,2025-07-19_France_Germany
+2025-07-22,Morocco,Ghana,Morocco,Morocco,2025-07-22_Morocco_Ghana
+2025-07-25,Ghana,South Africa,Ghana,South Africa,2025-07-25_Ghana_South_Africa
+2025-07-27,England,Spain,England,England,2025-07-27_England_Spain
+2025-07-28,Argentina,Colombia,Colombia,Colombia,2025-07-28_Argentina_Colombia
+2025-08-01,Argentina,Uruguay,Argentina,Uruguay,2025-08-01_Argentina_Uruguay
+2025-08-02,Colombia,Brazil,Brazil,Brazil,2025-08-02_Colombia_Brazil
