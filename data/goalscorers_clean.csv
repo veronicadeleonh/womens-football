@@ -2737,8 +2737,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty,match_id
 2025-07-09,France,Wales,France,Kadidiatou Diani,45,False,True,2025-07-09_France_Wales
 2025-07-09,France,Wales,France,Amel Majri,53,False,False,2025-07-09_France_Wales
 2025-07-09,France,Wales,France,Grace Geyoro,63,False,False,2025-07-09_France_Wales
-2025-07-10,Finland,Switzerland,Finland,Natalia Kuikka,79,False,True,2025-07-10_Finland_Switzerland
-2025-07-10,Finland,Switzerland,Switzerland,Riola Xhemaili,90,False,False,2025-07-10_Finland_Switzerland
+2025-07-10,Switzerland,Finland,Finland,Natalia Kuikka,79,False,True,2025-07-10_Switzerland_Finland
+2025-07-10,Switzerland,Finland,Switzerland,Riola Xhemaili,90,False,False,2025-07-10_Switzerland_Finland
 2025-07-10,Norway,Iceland,Iceland,Sveindís Jane Jónsdóttir,6,False,False,2025-07-10_Norway_Iceland
 2025-07-10,Norway,Iceland,Norway,Signe Gaupset,15,False,False,2025-07-10_Norway_Iceland
 2025-07-10,Norway,Iceland,Norway,Signe Gaupset,26,False,False,2025-07-10_Norway_Iceland
@@ -2784,8 +2784,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty,match_id
 2025-07-17,Sweden,England,Sweden,Stina Blackstenius,25,False,False,2025-07-17_Sweden_England
 2025-07-17,Sweden,England,England,Lucy Bronze,79,False,False,2025-07-17_Sweden_England
 2025-07-17,Sweden,England,England,Michelle Agyemang,81,False,False,2025-07-17_Sweden_England
-2025-07-18,Spain,Switzerland,Spain,Athenea del Castillo,66,False,False,2025-07-18_Spain_Switzerland
-2025-07-18,Spain,Switzerland,Spain,Clàudia Pina,71,False,False,2025-07-18_Spain_Switzerland
+2025-07-18,Switzerland,Spain,Spain,Athenea del Castillo,66,False,False,2025-07-18_Switzerland_Spain
+2025-07-18,Switzerland,Spain,Spain,Clàudia Pina,71,False,False,2025-07-18_Switzerland_Spain
 2025-07-19,France,Germany,France,Grace Geyoro,15,False,True,2025-07-19_France_Germany
 2025-07-19,France,Germany,Germany,Sjoeke Nüsken,25,False,False,2025-07-19_France_Germany
 2025-07-22,England,Italy,Italy,Barbara Bonansea,33,False,False,2025-07-22_England_Italy
