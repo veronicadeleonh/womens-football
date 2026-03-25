@@ -5,12 +5,12 @@ import "./App.css";
 
 // ── Firebase ──────────────────────────────────────────────────────────────────
 const firebaseConfig = {
-  apiKey: "AIzaSyDDTzeKt_HxPuUDfk7jMFqZtaptedO4aIM",
+  apiKey: process.env.FIREBASE_API_KEY,
   authDomain: "womens-football-prediction.firebaseapp.com",
   projectId: "womens-football-prediction",
   storageBucket: "womens-football-prediction.firebasestorage.app",
   messagingSenderId: "800897859811",
-  appId: "1:800897859811:web:5c95b7302eada9569205d6",
+  appId: process.env.FIREBASE_APP_ID,
 };
 const firebaseApp = initializeApp(firebaseConfig);
 const db = getFirestore(firebaseApp);
